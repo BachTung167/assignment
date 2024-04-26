@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/view/authentication/home2.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/view/lecturer/timetable.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/RoleDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/lecturer/TimeTableServlet.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/grade.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/authentication/BaseRequiredAuthenticationController.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/lecturer/AttendenceServlet.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/view/lecturer/attendence.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/authentication/LoginController.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/LessionDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/TimeSlotDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/SubjectDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/AccountDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/authentication/LogoutController.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/util/DateTimeHelper.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/view/authentication/login.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/StudentDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/controller/student/GradeServlet.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/web/view/authentication/home.jsp</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/GradeDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/AttendenceDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/dal/AssessmentDBContext.java</file>
+            <file>file:/C:/Users/PC/Downloads/PRJ/Project_Assignment/Project_Assignment/src/java/model/Hung.java</file>
+        </group>
+    </open-files>
+</project-private>
